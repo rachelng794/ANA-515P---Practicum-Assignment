@@ -1,2 +1,4 @@
 # ANA-515P---Practicum-Assignment
-In this assignment, the data was retrieved and errors were fixed using R.
+I used R to retrieve, load, and clean the data. 
+I also found and fixed errors in the data.
+Visualizations were embedded to aid in my identification of errors.  
